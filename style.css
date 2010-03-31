@@ -67,6 +67,10 @@ div.twtr-tweet-text {
 	margin-right: 10px;
 }
 
+div.twtr-widget {
+	font-family: "monaco", Monospace !important;
+}
+
 div.twtr-ft div {
 	display:none;
 }
