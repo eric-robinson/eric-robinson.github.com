@@ -1,0 +1,25 @@
+body {
+	background-image: url(../images/background.png);
+  	background-color: #424242;
+  	margin: 0px;
+  	padding: 0px;
+  	font-size: 14px;
+  	font-family: sans-serif;	
+}
+
+a {
+  	color: #4A6A8B;
+}
+
+div#content {
+  	margin: 0 auto;
+  	padding: 15px;
+  	width: 800px;
+  	background-color: #FFF;
+  	min-height: 600px;
+  	padding-bottom: 30px;  
+}
+
+h2 {
+	text-align: center;
+}
