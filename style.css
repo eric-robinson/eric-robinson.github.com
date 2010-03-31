@@ -21,6 +21,8 @@ div#content {
 	height: 540px;
   	background-color: #FFF;
 	position:relative;
+  	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;	
 }
  
 div#info {
