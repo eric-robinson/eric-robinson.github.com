@@ -26,7 +26,7 @@ div#content {
 
 div#info_column {
 	position: absolute;
-	width: 270px;
+	width: 350px;
 	top: 20px;
 	left: 30px;
 }
@@ -51,7 +51,7 @@ div.email {
 }
 
 div#most_recent_tweet {
-	width: 270px;	
+	width: 350px;	
 	background-color: #F3F3F3;
 	padding: 0px;
 }
