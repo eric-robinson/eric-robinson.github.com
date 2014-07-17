@@ -55,21 +55,6 @@ div.info_block h3 {
 div.email {
 }
 
-div#most_recent_tweet {
-	width: 350px;	
-	background-color: #F3F3F3;
-	padding: 0px;
-}
-
-div#most_recent_tweet h1 {
-	margin: 0px;
-	padding: 10px;
-	padding-bottom: 5px;
-	font-size: 12px;
-	text-align: center;
-	font-weight:normal;
-}
-
 div.twtr-hd {
 	display:none;
 }
