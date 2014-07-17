@@ -20,8 +20,8 @@ div#content {
 	height: 540px;
   	background-color: #FFF;
 	position:relative;
-  	-moz-border-radius: 5px;
-	-webkit-border-radius: 5px;	
+  	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;	
 }
 
 div#info_column {
@@ -39,8 +39,8 @@ div.info_block {
 	background-color: #FDFDFD;
   	-webkit-box-shadow: 0px 2px 5px #424242;
         -moz-box-shadow: #424242 0px 2px 5px;    	
-  	-moz-border-radius: 8px;
-	-webkit-border-radius: 8px;
+  	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
 }
 
 div.info_block p {
@@ -48,8 +48,8 @@ div.info_block p {
 }
 
 div.info_block h3 {
-	text-align:left;
-	margin-left; 8px;
+	text-align: left;
+	margin-left: 8px;
 }
 
 div.email {
