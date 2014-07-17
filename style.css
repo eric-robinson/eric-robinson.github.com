@@ -15,7 +15,7 @@ div#content {
 	background-repeat: no-repeat;		
 	background-position: 10px 10px;
   	margin: 20px auto;
-  	padding: 10px;
+  	padding: 8px;
   	width: 960px;
 	height: 540px;
   	background-color: #FFF;
@@ -26,16 +26,16 @@ div#content {
 
 div#info_column {
 	position: absolute;
-	width: 350px;
-	top: 20px;
-	left: 30px;
+	width: 360px;
+	top: 16px;
+	left: 32px;
 }
  
 div.info_block {
 	text-align: center;
-	padding: 10px;
+	padding: 8px;
 	margin: 0px;
-	margin-bottom: 15px;
+	margin-bottom: 16px;
 	background-color: #FDFDFD;
   	-webkit-box-shadow: 0px 2px 5px #424242;
     -moz-box-shadow: #424242 0px 2px 5px;    	
@@ -49,6 +49,7 @@ div.info_block p {
 
 div.info_block h3 {
 	text-align:left;
+	margin-left; 8px;
 }
 
 div.email {
