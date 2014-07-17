@@ -47,6 +47,10 @@ div.info_block p {
 	margin: 8px 0px;
 }
 
+div.info_block h3 {
+	text-align:left;
+}
+
 div.email {
 }
 
