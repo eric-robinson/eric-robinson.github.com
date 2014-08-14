@@ -2,8 +2,7 @@ body {
 	font-family: "monaco", Monospace;	
   	margin: 0px;
   	padding: 0px;
-  	font-size: 12px;
-	-webkit-text-size-adjust: 100%;
+  	font-size: 1em;
 }
 
 html { 
@@ -18,7 +17,7 @@ div#content {
 }
 
 div#info_column {
-	padding-top: 16px;
+	padding-top: 24px;
 	margin: 0 auto;
 }
  
@@ -54,8 +53,8 @@ div.twtr-hd {
 }
 
 div.twtr-tweet-text {
-	margin-left: 16px !important;
-	margin-right: 16px;
+	margin-left: 18px !important;
+	margin-right: 18px;
 }
 
 div.twtr-tweet-text a {
