@@ -17,8 +17,9 @@ div#content {
 }
 
 div#info_column {
+	max-width: 360px;
 	top: 32px;
-	left: 32px;
+	margin: 0 auto;
 }
  
 div.info_block {
