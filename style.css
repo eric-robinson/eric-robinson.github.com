@@ -5,19 +5,22 @@ body {
   	padding: 0px;
   	font-size: 12px;
 }
+
+html { 
+  background: url(background.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
  
 a {
   	color: #4A6A8B;
 }
   
 div#content {
-	background-image: url(background.png);
-	background-repeat: no-repeat;		
-	-webkit-background-size: cover;
-
+	
   	padding: 48px;
-  	
-  	background-color: #FFF;
 }
 
 div#info_column {
