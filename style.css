@@ -13,11 +13,11 @@ a {
 div#content {
 	background-image: url(background.png);
 	background-repeat: no-repeat;		
-	background-position: 8px 8px;
+	-webkit-background-size: cover;
+
   	margin: 20px auto;
   	padding: 8px;
-  	width: 960px;
-	height: 540px;
+  	width: 100%;
   	background-color: #FFF;
 	position:relative;
   	-moz-border-radius: 4px;
