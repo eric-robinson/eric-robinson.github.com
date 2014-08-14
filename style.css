@@ -1,17 +1,18 @@
 body {
 	font-family: "monaco", Monospace;	
-  	background-color: #F6F5F1;
+  	
   	margin: 0px;
   	padding: 0px;
   	font-size: 12px;
 }
 
 html { 
-  background: url(background.png) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  	background: url(background.png) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  /*background-color: #F6F5F1;*/
 }
  
 a {
