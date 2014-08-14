@@ -17,6 +17,7 @@ div#content {
 }
 
 div#info_column {
+	width: 100%;
 	padding-top: 24px;
 	margin: 0 auto;
 }
