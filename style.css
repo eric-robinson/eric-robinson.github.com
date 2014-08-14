@@ -17,8 +17,7 @@ div#content {
 }
 
 div#info_column {
-	max-width: 360px;
-	top: 32px;
+	padding-top: 16px;
 	margin: 0 auto;
 }
  
@@ -29,7 +28,7 @@ div.info_block {
 	margin-bottom: 16px;
 	background-color: #FDFDFD;
   	-webkit-box-shadow: 0px 2px 5px #424242;
-    -moz-box-shadow: #424242 0px 2px 5px;    	
+    	-moz-box-shadow: #424242 0px 2px 5px;    	
 }
 
 div.info_block p {
