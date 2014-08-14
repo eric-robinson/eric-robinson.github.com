@@ -44,7 +44,8 @@ div.email {
 }
 
 @media screen and (min-width: 480px){
-	div.info_block {
+	div#info_column {
+		max-width: 480px;
 		margin: inherit auto;
 	}
 }
