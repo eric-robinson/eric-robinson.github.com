@@ -1,8 +1,9 @@
+@import url(http://fonts.googleapis.com/css?family=Montserrat);
+
 body {
-	font-family: "monaco", Monospace;	
+	font-family: 'Montserrat', sans-serif;
   	margin: 0px;
   	padding: 0px;
-  	color: #1F1E1F;
 }
 
 html { 
@@ -21,18 +22,12 @@ div#info_column {
 }
  
 div.info_block {
-	max-width: 100%;
-	text-align: left;
-	padding: 1em;	
+	padding: 1em;
 }
 
 div.info_block p {
 	padding: 0.5 auto;
-	margin: 0.5em auto;		
-}
-
-div.info_block h2 {
-	margin-bottom: 2em;
+	margin: 0.5em auto 1.5em auto;
 }
 
 div.info_block h2, div.info_block h3 {
@@ -45,7 +40,8 @@ div.email {
 
 @media screen and (min-width: 480px){
 	div#info_column {
-		max-width: 480px;
+		width: 480px;
 		margin: inherit auto;
 	}
+  
 }
