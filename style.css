@@ -11,7 +11,8 @@ html {
 }
  
 a {
-  	color: #4A6A8B;
+	color: #4A6A8B;
+	text-decoration: none;	
 }
   
 div#content {	
