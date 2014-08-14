@@ -44,14 +44,7 @@ div.email {
 }
 
 @media screen and (min-width: 480px){
-	div.info_block p, div.info_block h2, div.info_block h3 {
-		max-width: 480px;
+	div.info_block {
+		margin: inherit auto;
 	}
-	div.info_block p {
-		margin: 0.5em auto;	
-	}
-	div.info_block h2, div.info_block h3 {
-		margin: 1em auto;	
-	}
-  
 }
