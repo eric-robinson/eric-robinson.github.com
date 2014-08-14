@@ -44,7 +44,12 @@ div.info_block {
 }
 
 div.info_block p {
-	margin: 8px 0px;
+	margin: 8px 16px;
+}
+
+div.info_block h2 {
+	text-align: left;
+	margin-left: 16px;
 }
 
 div.info_block h3 {
