@@ -1,31 +1,22 @@
 body {
 	font-family: "monaco", Monospace;	
-  	
   	margin: 0px;
   	padding: 0px;
   	font-size: 12px;
 }
 
 html { 
-  	background: url(background.png) no-repeat center center fixed; 
-  	-webkit-background-size: cover;
-  	-moz-background-size: cover;
-  	-o-background-size: cover;
-  	background-size: cover;
-  /*background-color: #F6F5F1;*/
+  background-color: #938F90;
 }
  
 a {
   	color: #4A6A8B;
 }
   
-div#content {
-	
-  	padding: 48px;
+div#content {	
 }
 
 div#info_column {
-	width: 360px;
 	top: 32px;
 	left: 32px;
 }
@@ -37,9 +28,7 @@ div.info_block {
 	margin-bottom: 16px;
 	background-color: #FDFDFD;
   	-webkit-box-shadow: 0px 2px 5px #424242;
-        -moz-box-shadow: #424242 0px 2px 5px;    	
-  	-moz-border-radius: 4px;
-	-webkit-border-radius: 4px;
+    -moz-box-shadow: #424242 0px 2px 5px;    	
 }
 
 div.info_block p {
