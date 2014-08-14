@@ -27,7 +27,7 @@ div.info_block {
 }
 
 div.info_block p {
-	padding: 1em;
+	padding: 1em 0;
 	margin: 1em auto;
 }
 
