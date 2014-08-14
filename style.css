@@ -27,8 +27,8 @@ div.info_block {
 }
 
 div.info_block p {
-	padding: 0.5 auto;
-	margin: 0.5em auto 1.5em auto;
+	padding: 1em;
+	margin: 1em auto;
 }
 
 div.info_block h2, div.info_block h3 {
