@@ -38,7 +38,7 @@ div.info_block p {
 
 div.info_block p.subsection {
 	font-size: 0.8em;
-	padding: 1.5em auto 0.25em auto;
+	margin: 1.5em auto 0.25em auto;
 	font-weight: italic;
 }
 
