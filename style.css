@@ -12,10 +12,11 @@ html {
  
 a {
 	color: #4A6A8B;
+	font-weight: bold;
 	text-decoration: none;	
 }
 
-.diminished {
+.diminished, .diminished a  {
 	color: #999;
 }
   
