@@ -4,6 +4,7 @@ body {
 	font-family: 'Montserrat', sans-serif;
   	margin: 0px;
   	padding: 0px;
+  	color: #1F1E1F;
 }
 
 html { 
@@ -44,6 +45,10 @@ div.info_block p.subsection {
 div.info_block h2, div.info_block h3 {
 	padding: 0;
 	margin: 1em auto;
+}
+
+div.info_block h3 {
+	font-size: 1em;
 }
 
 @media screen and (min-width: 480px){
