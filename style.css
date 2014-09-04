@@ -51,6 +51,10 @@ div.info_block h3 {
 	font-size: 1em;
 }
 
+div.info_block h3 a {
+	font-weight: bold;
+}
+
 @media screen and (min-width: 480px){
 	div#info_column {
 		width: 480px;
