@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eric Robinson</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://eric-robinson.github.io/</link>
+    <atom:link href="http://eric-robinson.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 09 Sep 2014 03:21:30 -0400</pubDate>
+    <lastBuildDate>Tue, 09 Sep 2014 03:21:30 -0400</lastBuildDate>
+    <generator>Jekyll v2.3.0</generator>
+    
+      <item>
+        <title>Thoughts on the Watch</title>
+        <description>&lt;p&gt;At this point, it’s &lt;a href=&quot;http://daringfireball.net/2014/09/prelude&quot;&gt;nearly certain&lt;/a&gt; that Apple will announce a new wearable device tommorrow. Let’s assume it exits and call it “the watch”. In all likelihood, it will not resemble a lip balm tin.&lt;/p&gt;
+
+&lt;p&gt;My hunch is the watch will be (and be marketed as) an intensely personal device. A thing that can access your bank account, manipulate your environment while in your home and car, measure and monitor your health. In the way that an iPhone represents an outside world of tweets, emails, movies, and input; the watch will represent you back to that world. And it’s waterproof.&lt;/p&gt;
+
+&lt;p&gt;Following this, I suspect Apple will be reluctant to make tradional lock screen notifications a major selling point of the watch. Access will be extremely closely guarded by the iOS, and perhaps require a Touch ID scan before an app is granted permission to interact with it. Apple will go out of their way to emphasize that the watch is safe.&lt;/p&gt;
+
+&lt;p&gt;If it has a screen, my hope is that it’s going to be positioned on the inside of the wrist. I see an inherent contradiction in having a screen outwardly displaying information from a device as personal as the watch. The simple choice of facing the screen inward would make the device discreet and intimate. Interacting with it will be like taking your heartbeat instead of checking what time your monocle fell out.&lt;/p&gt;
+
+&lt;p&gt;In my mind, the way to frame the watch is as the all-powerful controller for Apple’s ecosystem. That’s the thing it can do an order of magnitude better than existing products. It’s a remote for your iPhone, Mac, Apple TV, lightswitch, and air conditioner. It can be a shutter for your camera, a trigger for your wafflemaker, whatever. iWatch apps will be Extensions of paired iOS or Mac app, but won’t require the pair to be alive run. As for the interface, likely it will be largely icon driven. It would be a gd travesty if the screen was frequently used to display 10 truncated words from an email or text message spread over 3 lines. Interactions with the watch will be in and out; extremely quick, but potentially frequent.&lt;/p&gt;
+
+&lt;p&gt;None of this isn’t to say that every single detail involved with this isn’t a monumental challenge, but I think Apple, and &lt;a href=&quot;http://daringfireball.net/2014/06/only_apple&quot;&gt;only Apple&lt;/a&gt; can pull it off. If they manage it, that package of power and safety is incredibly potent.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 08 Sep 2014 21:21:49 -0400</pubDate>
+        <link>http://eric-robinson.github.io/2014/09/08/the-watch.html</link>
+        <guid isPermaLink="true">http://eric-robinson.github.io/2014/09/08/the-watch.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
