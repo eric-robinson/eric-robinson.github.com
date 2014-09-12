@@ -6,13 +6,13 @@
 </description>
     <link>http://eric-robinson.github.io/</link>
     <atom:link href="http://eric-robinson.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 12 Sep 2014 00:52:21 -0400</pubDate>
-    <lastBuildDate>Fri, 12 Sep 2014 00:52:21 -0400</lastBuildDate>
+    <pubDate>Fri, 12 Sep 2014 00:57:30 -0400</pubDate>
+    <lastBuildDate>Fri, 12 Sep 2014 00:57:30 -0400</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
     
       <item>
         <title>Functional Programming in Swift</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://www.objc.io/books/&quot;&gt;New book&lt;/a&gt; from the &lt;a href=&quot;http://objc.io&quot;&gt;objc.io&lt;/a&gt;. I wrote a small game in Swift and aside from a few rough edges in the bridging layer between Obj-C libraries and Swift I’ve found it to be a pleasure. I’m looking forward to adopting functional programming paradigms in my own code and to the future libraries that are built on top of it.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;&quot;&gt;New book&lt;/a&gt; from the &lt;a href=&quot;http://objc.io&quot;&gt;objc.io&lt;/a&gt;. I wrote a small game in Swift and aside from a few rough edges in the bridging layer between Obj-C libraries and Swift I’ve found it to be a pleasure. I’m looking forward to adopting functional programming paradigms in my own code and to the future libraries that are built on top of it.&lt;/p&gt;
 </description>
         <pubDate>Thu, 11 Sep 2014 20:48:00 -0400</pubDate>
         <link>http://eric-robinson.github.io/2014/09/11/functional-programming-in-swift.html</link>
