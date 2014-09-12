@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " Watch - Follow Up"
+title:  "Apple Watch - Follow Up"
 date:   2014-09-12 00:45:00
 categories:
 ---
