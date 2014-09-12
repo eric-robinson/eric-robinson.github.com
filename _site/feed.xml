@@ -6,9 +6,20 @@
 </description>
     <link>http://eric-robinson.github.io/</link>
     <atom:link href="http://eric-robinson.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 12 Sep 2014 00:37:52 -0400</pubDate>
-    <lastBuildDate>Fri, 12 Sep 2014 00:37:52 -0400</lastBuildDate>
+    <pubDate>Fri, 12 Sep 2014 00:46:48 -0400</pubDate>
+    <lastBuildDate>Fri, 12 Sep 2014 00:46:48 -0400</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
+    
+      <item>
+        <title>Functional Programming In Swift</title>
+        <description>
+</description>
+        <pubDate>Fri, 12 Sep 2014 00:00:00 -0400</pubDate>
+        <link>http://eric-robinson.github.io/2014/09/12/functional-programming-in-swift.html</link>
+        <guid isPermaLink="true">http://eric-robinson.github.io/2014/09/12/functional-programming-in-swift.html</guid>
+        
+        
+      </item>
     
       <item>
         <title> Watch - Follow Up</title>
@@ -29,9 +40,9 @@
 &lt;p&gt;I’m buying one.&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 08 Sep 2014 21:21:49 -0400</pubDate>
-        <link>http://eric-robinson.github.io/2014/09/08/the-watch-followup.html</link>
-        <guid isPermaLink="true">http://eric-robinson.github.io/2014/09/08/the-watch-followup.html</guid>
+        <pubDate>Thu, 11 Sep 2014 20:45:00 -0400</pubDate>
+        <link>http://eric-robinson.github.io/2014/09/11/the-watch-followup.html</link>
+        <guid isPermaLink="true">http://eric-robinson.github.io/2014/09/11/the-watch-followup.html</guid>
         
         
       </item>
