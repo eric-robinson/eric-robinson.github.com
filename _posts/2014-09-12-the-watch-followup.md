@@ -7,6 +7,8 @@ categories:
 
 It should be obvious that the thoughtfulness put into the interface [and hardware][watchguy] is superior to the current Android Wear offerings. However, it's the difference between iOS and Andoid, not between iOS and Blackberry/Window Mobile. When the industry was zigging, I thought Apple would zag. Instead, they just zigged really hard. Oh well.
 
+That's not to say there aren't some great new ideas. Force touch and Taptic engine feedback seem like new ways of doing things that should make for some very nice interactions.
+
 The digital crown seems nice and I’m sure the action is fucking cherry, but Tim Cook positioning it as the next step in the mouse->multitouch evolution is bonkers.
 
 It's kinda chunk, but that's likely a first generation thing. I expect it get get svelt over a few iterations.
