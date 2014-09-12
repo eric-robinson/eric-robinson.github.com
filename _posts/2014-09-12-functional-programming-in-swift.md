@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Functional Programming in Swift"
-date:   2014-09-012 01:48:00
+date:   2014-09-12 00:48:00
 categories:
 ---
 

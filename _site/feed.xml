@@ -6,30 +6,30 @@
 </description>
     <link>http://eric-robinson.github.io/</link>
     <atom:link href="http://eric-robinson.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 12 Sep 2014 00:46:48 -0400</pubDate>
-    <lastBuildDate>Fri, 12 Sep 2014 00:46:48 -0400</lastBuildDate>
+    <pubDate>Fri, 12 Sep 2014 00:52:21 -0400</pubDate>
+    <lastBuildDate>Fri, 12 Sep 2014 00:52:21 -0400</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
     
       <item>
-        <title>Functional Programming In Swift</title>
-        <description>
+        <title>Functional Programming in Swift</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://www.objc.io/books/&quot;&gt;New book&lt;/a&gt; from the &lt;a href=&quot;http://objc.io&quot;&gt;objc.io&lt;/a&gt;. I wrote a small game in Swift and aside from a few rough edges in the bridging layer between Obj-C libraries and Swift I’ve found it to be a pleasure. I’m looking forward to adopting functional programming paradigms in my own code and to the future libraries that are built on top of it.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 12 Sep 2014 00:00:00 -0400</pubDate>
-        <link>http://eric-robinson.github.io/2014/09/12/functional-programming-in-swift.html</link>
-        <guid isPermaLink="true">http://eric-robinson.github.io/2014/09/12/functional-programming-in-swift.html</guid>
+        <pubDate>Thu, 11 Sep 2014 20:48:00 -0400</pubDate>
+        <link>http://eric-robinson.github.io/2014/09/11/functional-programming-in-swift.html</link>
+        <guid isPermaLink="true">http://eric-robinson.github.io/2014/09/11/functional-programming-in-swift.html</guid>
         
         
       </item>
     
       <item>
         <title> Watch - Follow Up</title>
-        <description>&lt;p&gt;It should be obvious that the thoughtfulness put into the interface &lt;a href=&quot;http://www.hodinkee.com/blog/hodinkee-apple-watch-review&quot;&gt;and hardware&lt;/a&gt; is superior to the current Android Wear offerings. However, it’s the difference between iOS and Andoid, not between iOS and Blackberry/Window Mobile. When the industry was zigging, I thought Apple would zag. Instead, they just zigged really hard. Oh well.&lt;/p&gt;
+        <description>&lt;p&gt;It should be obvious that the thoughtfulness put into the interface &lt;a href=&quot;http://www.hodinkee.com/blog/hodinkee-apple-watch-review&quot;&gt;and hardware&lt;/a&gt; is superior to the current Android Wear offerings. However, it’s the difference between iOS and Android, not between iOS and Blackberry/Window Mobile. When the industry was zigging, I thought Apple would zag. Instead, they just zigged really hard. Oh well.&lt;/p&gt;
 
 &lt;p&gt;That’s not to say there aren’t some great new ideas. Force touch and Taptic engine feedback seem like new ways of doing things that should make for some very nice interactions.&lt;/p&gt;
 
 &lt;p&gt;The digital crown seems nice and I’m sure the action is fucking cherry, but Tim Cook positioning it as the next step in the mouse-&amp;gt;multitouch evolution is bonkers.&lt;/p&gt;
 
-&lt;p&gt;It’s kinda chunk, but that’s likely a first generation thing. I expect it get get svelt over a few iterations.&lt;/p&gt;
+&lt;p&gt;It’s kinda chunk, but that’s likely a first generation thing. I expect it get get svelte over a few iterations.&lt;/p&gt;
 
 &lt;p&gt;It seem that the messenger is going to be the killer app, and that we likely don’t know all it can do. There is a hardware button dedicated to it, so it’s obvious that Apple sees it as a central pillar to the Watch’s appeal.&lt;/p&gt;
 
