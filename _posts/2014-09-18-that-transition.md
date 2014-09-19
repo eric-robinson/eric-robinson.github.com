@@ -6,4 +6,4 @@ categories:
 
 ---
 
-![Watch Transition](images/watch-transition.gif)
+![Watch Transition](/images/watch-transition.gif)
