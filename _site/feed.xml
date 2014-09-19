@@ -6,9 +6,24 @@
 </description>
     <link>http://eric-robinson.github.io/</link>
     <atom:link href="http://eric-robinson.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 18 Sep 2014 23:16:38 -0700</pubDate>
-    <lastBuildDate>Thu, 18 Sep 2014 23:16:38 -0700</lastBuildDate>
+    <pubDate>Fri, 19 Sep 2014 11:04:42 -0700</pubDate>
+    <lastBuildDate>Fri, 19 Sep 2014 11:04:42 -0700</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
+    
+      <item>
+        <title>Well Said</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;In general, you don’t want to overcomplicate a simple task, but you also want to give users the options they expect.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In a throwaway note on the &lt;a href=&quot;https://developer.apple.com/library/ios/documentation/General/Conceptual/ExtensibilityPG/ShareSheet.html#//apple_ref/doc/uid/TP40014214-CH12-SW1&quot;&gt;App Extension Programming Guide&lt;/a&gt;, the Apple technical documentation team succinctly summarizes all UI design. &lt;/p&gt;
+</description>
+        <pubDate>Fri, 19 Sep 2014 04:00:00 -0700</pubDate>
+        <link>http://eric-robinson.github.io/2014/09/19/app-extensions-excerpt.html</link>
+        <guid isPermaLink="true">http://eric-robinson.github.io/2014/09/19/app-extensions-excerpt.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>that transition tho</title>
