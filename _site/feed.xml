@@ -6,15 +6,26 @@
 </description>
     <link>http://eric-robinson.github.io/</link>
     <atom:link href="http://eric-robinson.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 12 Sep 2014 01:05:48 -0400</pubDate>
-    <lastBuildDate>Fri, 12 Sep 2014 01:05:48 -0400</lastBuildDate>
+    <pubDate>Thu, 18 Sep 2014 23:06:45 -0700</pubDate>
+    <lastBuildDate>Thu, 18 Sep 2014 23:06:45 -0700</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
+    
+      <item>
+        <title>that transition tho</title>
+        <description>&lt;p&gt;&lt;img src=&quot;images/watch-transition.gif&quot; alt=&quot;Watch Transition&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 18 Sep 2014 04:06:00 -0700</pubDate>
+        <link>http://eric-robinson.github.io/2014/09/18/that-transition.html</link>
+        <guid isPermaLink="true">http://eric-robinson.github.io/2014/09/18/that-transition.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Functional Programming in Swift</title>
         <description>&lt;p&gt;&lt;a href=&quot;&quot;&gt;New book&lt;/a&gt; from the &lt;a href=&quot;http://objc.io&quot;&gt;objc.io&lt;/a&gt; team. I wrote a small game in Swift and aside from a few rough edges in the bridging layer between Obj-C libraries and Swift I’ve found it to be a pleasure. I’m looking forward to adopting functional programming paradigms in my own code and to the future libraries that are built on top of it.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 11 Sep 2014 20:48:00 -0400</pubDate>
+        <pubDate>Thu, 11 Sep 2014 17:48:00 -0700</pubDate>
         <link>http://eric-robinson.github.io/2014/09/11/functional-programming-in-swift.html</link>
         <guid isPermaLink="true">http://eric-robinson.github.io/2014/09/11/functional-programming-in-swift.html</guid>
         
@@ -40,7 +51,7 @@
 &lt;p&gt;I’m buying one.&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 11 Sep 2014 20:45:00 -0400</pubDate>
+        <pubDate>Thu, 11 Sep 2014 17:45:00 -0700</pubDate>
         <link>http://eric-robinson.github.io/2014/09/11/the-watch-followup.html</link>
         <guid isPermaLink="true">http://eric-robinson.github.io/2014/09/11/the-watch-followup.html</guid>
         
@@ -64,7 +75,7 @@
 &lt;p&gt;None of this isn’t to say that every single detail involved with this isn’t a monumental challenge, but I think Apple, and &lt;a href=&quot;http://daringfireball.net/2014/06/only_apple&quot;&gt;only Apple&lt;/a&gt; can pull it off. If they manage it, that package of safely wielded power is incredibly potent.&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 08 Sep 2014 21:21:49 -0400</pubDate>
+        <pubDate>Mon, 08 Sep 2014 18:21:49 -0700</pubDate>
         <link>http://eric-robinson.github.io/2014/09/08/the-watch.html</link>
         <guid isPermaLink="true">http://eric-robinson.github.io/2014/09/08/the-watch.html</guid>
         
