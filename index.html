@@ -1,59 +1,30 @@
-<!DOCTYPE html>
- 
-<html>
-  	<head>
-		<title>Eric Robinson</title>
-		<meta name="viewport" content="width=device-width, user-scalable=no, max-scale=1.0" />
-		<link href="style.css" rel="stylesheet" type="text/css" media="all" />
-  	</head>
+---
+layout: default
+---
 
-    <body>
-	  	<div id = "content">
-		    <div id = "info_column">
-				<div class = "info_block">
-					<h1>Hi, I'm Eric.</h1>
-					<p>I make software in <br/>Greenpoint, Brooklyn, NYC.</p>
-					<p>I'm on the twitter <a href = "http://twitter.com/Eric_Robinson">@Eric_Robinson</a>.</p>
-				</div>
-				<div class = "info_block">
-					<h2>Work</h2>
-					<p>iOS Engineer at <a href = "http://flipboard.com">Flipboard</a>.</p>		
-					<div class = "diminished">
-						<p class = "subsection">Before that...</p>
-						<p>Developer/Product at <a href = "http://ultravisual.com">Ultravisual</a>.<br/>
-						Developer at <a href = "http://mdimension.com">mDimension Technology</a>.</p>		
-					</div>
-				</div>
-				<div class = "info_block">
-					<h2>Projects</h2>
-					<h3><a href = "http://lwlvl.com/ios">lWlVl Festival</a></h3>
-					<p>Schedule, playlist, and info app for the lWlVl electronic music festival.</p>
-					<h3><a href = "http://mdimension.com/page/ColorBot">ColorBot</a></h3>
-					<p>An OS X utility for capturing, organizing, and formatting colors.</p>
-				</div>   				
-				<div class = "info_block">
-					<h2>Repositories</h2>
-					<h3><a href = "https://github.com/eric-robinson/SCLPlayer">SCLPlayer</a></h3>
-					<p>An easy to integrate SoundCloud player for iOS apps.</p>
-				</div>				
-				<div class = "info_block">
-					<div class = "diminished">
-						<p class = "subsection">Also...</p>
-						<p>I blog about <a href = "http://lookatthemoon.co">board games</a>.</p>
-					</div>
-				</div>
-			</div>
-	  	</div>
+<div class="home">
 
-		<script type="text/javascript">
-		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-		</script>
-		<script type="text/javascript">
-		try {
-		var pageTracker = _gat._getTracker("UA-15593765-1");
-		pageTracker._trackPageview();
-		} catch(err) {}</script>
-	</body>
-</html>
- 
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+		  {% if post.link %}
+          <a class="post-link" href="{{ post.link }}">{{ post.title }}</a>		  
+		  {% else %}
+		  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>		  
+		  {% endif %}
+        </h2>
+		<article class="post-content">
+		  {{ post.content }}
+		</article>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p>–</p>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
