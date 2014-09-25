@@ -1,0 +1,64 @@
+@import url(http://fonts.googleapis.com/css?family=Montserrat);
+
+body {
+	font-family: 'Montserrat', sans-serif;
+  	margin: 0px;
+  	padding: 0px;
+  	color: #1F1E1F;
+}
+
+html { 
+	background-color: #FDFDFD;
+}
+ 
+a {
+	color: #4A6A8B;
+	font-weight: bold;
+	text-decoration: none;	
+}
+
+.diminished, .diminished a  {
+	color: #9999A3;
+}
+  
+div#content {	
+}
+
+div#info_column {
+	margin: 0 auto;
+}
+ 
+div.info_block {
+	padding: 1em;
+}
+
+div.info_block p {
+	padding: 0;
+	margin: 0.5em auto 1.5em auto;
+}
+
+div.info_block p.subsection {
+	font-size: 0.8em;
+	margin: 1.5em auto 0.25em auto;
+}
+
+div.info_block h2, div.info_block h3 {
+	padding: 0;
+	margin: 1em auto;
+}
+
+div.info_block h3 {
+	font-size: 1em;
+}
+
+div.info_block h3 a {
+	font-weight: bold;
+}
+
+@media screen and (min-width: 480px){
+	div#info_column {
+		width: 480px;
+		margin: inherit auto;
+	}
+  
+}
